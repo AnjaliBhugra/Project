@@ -18,7 +18,7 @@
     .container .left {
         height: 80vh;
         width: 40%;
-        background-image: url("../img/pngwing.com.png");
+        background-image: url(../img/pngwing.com.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -99,7 +99,7 @@
     section{
         text-align: center;
         height: 900px;
-        background-image: url("../img/land_rover.jpg");
+        background-image: url(../img/land_rover.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
