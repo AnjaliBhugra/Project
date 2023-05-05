@@ -18,7 +18,7 @@
     .container .left {
         height: 80vh;
         width: 40%;
-        background-image: url("/static/img/pngwing.com.png");
+        background-image: url("../img/pngwing.com.png");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -99,7 +99,7 @@
     section{
         text-align: center;
         height: 900px;
-        background-image: url("/static/img/land_rover.jpg");
+        background-image: url("../img/land_rover.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -136,7 +136,7 @@
         height: 80vh;
         width: 40%;
         /* background-color: aquamarine; */
-        background-image: url(/static/img/pngimg.com\ -\ land_rover_PNG54.png);
+        background-image: url(../img/pngimg.com\ -\ land_rover_PNG54.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -170,7 +170,7 @@
         height: 80vh;
         width: 40%;
         /* background-color: aquamarine; */
-        background-image: url(/static/img/Land-Rover-Defender-PNG-Photo.png);
+        background-image: url(../img/Land-Rover-Defender-PNG-Photo.png);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -192,7 +192,7 @@
         text-decoration: underline;
     }
     .container4 {
-        background-image: url(/static/img/Land-Rover-Logo.png);
+        background-image: url(../img/Land-Rover-Logo.png);
         height: 90vh;
         padding: 1rem;
         background-size: 60%;
